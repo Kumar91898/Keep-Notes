@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#01C875</color>
+    <color name="lighter_green">#D8FDD2</color>
+    <color name="purple">#9E77E4</color>
+    <color name="silver">#323233</color>
+    <color name="background">#1B1C1C</color>
+
+    <color name="light_red">#FFEBEE</color>
+    <color name="light_blue">#E3F2FD</color>
+    <color name="light_green">#E8F5E9</color>
+    <color name="light_orange">#FFF3E0</color>
+    <color name="light_purple">#F3E5F5</color>
+    <color name="light_yellow">#FFEB3B</color>
+    <color name="light_teal">#B2DFDB</color>
+    <color name="light_lemon">#FFF9C4</color>
+    <color name="light_peach">#FFCCBC</color>
+    <color name="light_lavender">#E1BEE7</color>
+    <color name="light_cyan">#E0F7FA</color>
+    <color name="light_mint">#F0F4C3</color>
+    <color name="light_silver">#F5F5F5</color>
+    <color name="light_indigo">#E8EAF6</color>
+    <color name="light_lime">#F0F4C3</color>
+    <color name="light_amethyst">#E1BEE7</color>
+    <color name="light_salmon">#FFCCBC</color>
+    <color name="light_peacock">#B2DFDB</color>
+    <color name="light_magenta">#F3E5F5</color>
+    <color name="light_gold">#FFF3E0</color>
+
+</resources>

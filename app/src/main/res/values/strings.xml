@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Keep Notes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="keep_notes">Keep Notes</string>
+    <string name="study">Study</string>
+    <string name="love">Love</string>
+    <string name="school">School</string>
+    <string name="home">Home</string>
+    <string name="personal">Personal</string>
+    <string name="all">All</string>
+    <string name="search">Search</string>
+    <string name="title">Title</string>
+    <string name="note">note</string>
+    <string name="info_string">Hi, I\'m Kailash Kumar, a Software Engineering student passionate about creating useful and user-friendly apps. This is my second project made for the CodexCue internship. Thank you for using my notes app!</string>
+
+    <string-array name="category_array">
+        <item>Personal</item>
+        <item>Home</item>
+        <item>Study</item>
+        <item>Love</item>
+        <item>School</item>
+    </string-array>
+</resources>
